@@ -26,5 +26,10 @@ The goal is to identify high-risk roles and departments where early exits result
 - Interactive Power BI dashboard
 - PDF project summary
 
+## Files
+- `hr-attrition-dashboard.pbix` — Power BI report file (open in Power BI Desktop)
+- `hr-attrition-data.xlsx` — source HR dataset
+- `hr-attrition-report.pdf` — PDF summary of findings
+
 ## Author
 Khushi Sharma
